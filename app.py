@@ -16,7 +16,7 @@ def get_db_connection():
 
 def main():
     st.title("Kuaskuam Mariam Church Fundraising Event")
-    st.image("https://github.com/0xtibs/kuskuam/raw/main/CdL2dybUAAAmjh9.png", use_column_width=True)
+    st.image("CdL2dybUAAAmjh9.png", use_column_width=True)
 
 
 
