@@ -16,7 +16,7 @@ def get_db_connection():
 
 def main():
     st.title("Kuaskuam Mariam Church Fundraising Event")
-    st.image("CdL2dybUAAAmjh9.jpeg",use_column_width=True)
+    st.image("https://github.com/0xtibs/kuskuam/blob/main/CdL2dybUAAAmjh9.jpeg",use_column_width=True)
 
 
     donor_name = st.text_input("Donor Name")
