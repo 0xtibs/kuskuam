@@ -9,7 +9,7 @@ def get_db_connection():
         host="kuskuam-data-1.cmsqpdu6xv2x.us-east-1.rds.amazonaws.com",
         user=os.environ.get('DB_USER'),
         password=os.environ.get('DB_PASSWORD'),
-        database=os.environ.get('DB_NAME)
+        database=os.environ.get('DB_NAME')
     )
     return connection
 
